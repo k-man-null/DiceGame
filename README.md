@@ -26,3 +26,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 # DiceGame
+
+## The Game
+
+To play the game, visit the site ....
+
+Then, choose the number of dices you want to roll.
+
+Roll the dices and see how much you get as your total
