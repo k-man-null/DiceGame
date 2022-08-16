@@ -29,7 +29,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## The Game
 
-To play the game, visit the site ....
+To play the game, [visit the live game](https://dice-game-nu-five.vercel.app/)
 
 Then, choose the number of dices you want to roll.
 
